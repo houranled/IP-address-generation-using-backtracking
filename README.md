@@ -1,7 +1,7 @@
 # IP-address-generation-using-backtracking
 Generating valid IP address using backtracking.
 
-
+<pre>
 Given a string S containing only digits, Your task is to complete the function genIp() which returns a vector containing all possible combination of valid IPv4 ip address and takes only a string S as its only argument.
 Note : Order doesn't matter.
 
@@ -19,4 +19,5 @@ Input
 Output
 
 1.1.1.1
+</pre>
 
